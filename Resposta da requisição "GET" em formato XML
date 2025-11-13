@@ -1,4 +1,4 @@
-importrequests
+import requests
 
 url = 'https://viacep.com.br/ws/'
 cep = '30140071'
